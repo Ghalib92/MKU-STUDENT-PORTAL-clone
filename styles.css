@@ -1,0 +1,44 @@
+.horizontal-list{
+    list-style-type:none;
+    padding:0;
+    display:flex;
+}
+.horizontal-list li{
+    margin: 0;
+    background-color:rgb(63, 63, 189);
+    color: white;
+    padding: 10px 20px;
+    cursor: pointers;
+    
+}
+.horizontal-list li:hover{
+    background-color: white;
+    color: blue;
+}
+.horizontal-list-2{
+    list-style-type:none;
+    padding:0;
+    display:flex;
+
+}
+.horizontal-list-2 li{
+    margin: 0;
+    color: rgb(41, 6, 168);
+    padding: 10px 20px;
+    cursor: pointers;
+
+}
+.horizontal-list-2:hover{
+    background-color: white;
+    color: blue;
+    
+}
+fieldset{
+    margin: auto;
+    padding: 4%;
+    border: 2px sollid rgb(70, 66, 66);
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+}
